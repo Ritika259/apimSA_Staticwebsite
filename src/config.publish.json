@@ -1,0 +1,7 @@
+{
+    "environment": "publishing",
+    "managementApiUrl": "https://swaapimanagement.management.azure-api.net",
+    "managementApiAccessToken": "SharedAccessSignature integration&202202171644&SWtyxR/47OzxpP8AI4C55qIAbHXsEGkPswq++juPTWo7oMMgB6tn+9ps2H7BK/F/w6cv9AFW+DREDSwQkxxXow==",
+    "useHipCaptcha": false
+}
+
