@@ -1,0 +1,5 @@
+{
+    "environment": "runtime",
+    "managementApiUrl": "https://swaapimanagement.management.azure-api.net",
+    "backendUrl": "https://swaapimanagement.developer.azure-api.net"
+}
