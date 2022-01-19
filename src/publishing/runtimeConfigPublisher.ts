@@ -12,7 +12,7 @@ export class RuntimeConfigPublisher implements IPublisher {
         private readonly runtimeConfigBuilder: RuntimeConfigBuilder,
         private readonly outputBlobStorage: IBlobStorage,        
         private readonly oauthService: OAuthService
-    ) { }
+    ) { } 
 
     public async publish(): Promise<void> {
         const configuration = this.runtimeConfigBuilder.build();
