@@ -24,9 +24,3 @@ jobs:
           
       - name: Build
         run: npm run build-website
-          
-      - name: Upload report artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: accessibility-reports
-          path: ${{ github.workspace }}/_accessibility-reports
